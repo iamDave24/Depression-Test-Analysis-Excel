@@ -4,7 +4,6 @@ This repository contains the analysis of a **healthcare dataset** using **Excel*
 
 ## Tools Used:
 - **Microsoft Excel**: For data analysis, cleaning, and visualization.
-- **Python** (Optional): For any preliminary data cleaning (if applicable).
 
 ## Dataset Overview:
 The dataset includes records from patients, including:
